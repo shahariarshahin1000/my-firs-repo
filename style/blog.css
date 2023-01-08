@@ -1,0 +1,21 @@
+.header{
+    height: 400px; 
+     background-image:url('picture.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+    
+
+}
+h3{
+    color: magenta;
+    text-decoration:underline wavy green;
+}
+p{
+    color: brown;
+}
+.page-title{
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 200px;
+}
